@@ -1,0 +1,74 @@
+body{
+    
+    
+    background-color:white;
+}
+
+
+
+
+
+
+
+.bar{
+    margin-top:150px ;
+    height: 200px;
+    width: 1fr;
+    background-size:cover ;
+    justify-content: space-evenly;
+    align-item:center;
+    display:flex;
+    background-position: centre;
+    background-color:;
+    
+    
+}
+.logo{
+    
+    height: 300px;
+    width: 250px;
+    backdrop-filter:blur(20px);
+    border-radius:50px;
+    background-color: ;
+    justify-content:;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+background: rgba(255, 255, 255, 0.21);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11.2px);
+-webkit-backdrop-filter: blur(11.2px);
+border: 1px solid rgba(255, 255, 255, 0.38); 
+}
+
+.input{
+    height: 20px;
+    width: 240px;
+    border:1px solid;
+    border-radius: 5px; 
+    
+}
+
+.signin{
+    
+    background-color: blue ;
+    border-radius: 10px;
+    border:none;
+    padding-left:90px;   
+    color: white ;
+    margin-top:20px ;
+}
+p{
+    font-size:11px;
+    padding-left:2px ;
+}
+ .img{
+     display:flex;
+     justify-content:space-evenly;
+     
+ }
+ .l{
+     
+     height: 25px;
+ }
