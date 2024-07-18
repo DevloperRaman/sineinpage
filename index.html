@@ -10,14 +10,20 @@
        <div class="logo">
 
            <h4>  Sign In</h2>
-       <p>Email Address</p>  <input type="email"class="input" id="Gmail"></input>
+       <p>Email Address</p>  <input type="email"class="input" id="Gmail" required></input>
            <p>Password</p>
-           <input type="password" class="input"id="password"></input>
+           <input type="password" class="input"id="password" required></input>
 
 
 
+<script>
+function myFunction() {
+  document.write(<h1> YOU SIGN IN </h1>);;
+}
+</script>
 
-         <div class="signin" >Sign in</div>
+
+         <div class="signin"   onclick="myFunction()"   >Sign in</div>
 
           <p></p> 
 
